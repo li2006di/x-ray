@@ -1,6 +1,6 @@
 # 备份xray
 
-## **下载xray-core**
+## 下载xray-core
 ```
 bash <(curl -s -L https://raw.githubusercontent.com/man2018/download-proxy-tools/master/xray-core-download-new.sh)
 ```
