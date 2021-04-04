@@ -659,7 +659,8 @@ install_geodata() {
       exit 1
     fi
   }
-  local download_link_geoip="https://github.com/v2fly/geoip/releases/latest/download/geoip.dat"
+  # local download_link_geoip="https://github.com/v2fly/geoip/releases/latest/download/geoip.dat"
+  local download_link_geoip="https://github.com/man2018/x-ray/raw/main/geoip/geoip.dat"
   local download_link_geosite="https://github.com/v2fly/domain-list-community/releases/latest/download/dlc.dat"
   local file_ip='geoip.dat'
   local file_dlc='dlc.dat'
